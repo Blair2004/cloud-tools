@@ -1,0 +1,9 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of cloud-tools
+ */
+export { CloudToolsModule } from './lib/cloud-tools.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2Nsb3VkLXRvb2xzLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsaUNBQWMsMEJBQTBCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGNsb3VkLXRvb2xzXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvY2xvdWQtdG9vbHMubW9kdWxlJztcbi8vIGV4cG9ydCAqIGZyb20gJy4vbGliL2NsYXNzZXMvdmFsaWRhdGlvbi1nZW5lcmF0b3IuY2xhc3MnO1xuLy8gZXhwb3J0ICogZnJvbSAnLi9saWIvaW50ZXJmYWNlcy9maWVsZCc7XG4iXX0=

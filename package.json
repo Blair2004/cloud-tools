@@ -1,0 +1,25 @@
+{
+  "name": "cloud-tools",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0",
+    "@angular/forms": "~7.0.0",
+    "@angular/material": "^7.2.0",
+    "@angular/material-moment-adapter": "^7.3.1",
+    "ngx-captcha": "^6.3.0"
+  },
+  "main": "bundles/cloud-tools.umd.js",
+  "module": "fesm5/cloud-tools.js",
+  "es2015": "fesm2015/cloud-tools.js",
+  "esm5": "esm5/cloud-tools.js",
+  "esm2015": "esm2015/cloud-tools.js",
+  "fesm5": "fesm5/cloud-tools.js",
+  "fesm2015": "fesm2015/cloud-tools.js",
+  "typings": "cloud-tools.d.ts",
+  "metadata": "cloud-tools.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
